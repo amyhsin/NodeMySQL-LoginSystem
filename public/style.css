@@ -1,0 +1,44 @@
+nav {
+    background-color: rgb(72, 26, 90);
+    display: flex;
+    color: #fff;
+    padding: 30px 60px;
+    justify-content: space-between;
+}
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+}
+nav li a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold; font-size: 16px;
+    padding: 5px 8px;
+}
+nav li a:hover{
+    text-decoration: none;
+    color: rgb(211, 90, 211);
+    transition: 0.3s all ease-in-out;
+}
+
+.avatar-ctn{
+    background-color: rgb(252, 203, 97);
+    text-align: center;
+}
+.avatar{
+    width: 65%;
+    border-bottom: 1px solid rgba(0,0,0,0.125);
+}
+.edit{
+    color: rgb(110, 108, 112);
+    border-radius: 20%;
+}
+.edit:hover{
+    cursor: pointer;
+    box-shadow: rgb(165, 163, 163) 1.5px 1.5px;
+    transition: all ease-in-out 0.3s;
+}
