@@ -3,6 +3,6 @@
 
 #### 1.在 terminal 執行 `npm start` ，啟動系統
 
-#### 2.系統啟動，進入主頁，點選 ` Contact ` ，填寫問卷後送出。
+#### 2.進入Home page
 
-![image](https://github.com/amyhsin/mern-mogodb/blob/main/GIF/web.gif)
+![image](https://github.com/amyhsin/NodeMySQL-LoginSystem/blob/main/img/home.png)
